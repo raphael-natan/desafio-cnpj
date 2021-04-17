@@ -1,0 +1,2 @@
+insert into tb_empresa (cnpj,razao_social,nome_fantasia) values ('00000000000000','razao0','nome0');
+insert into tb_empresa (cnpj,razao_social,nome_fantasia) values ('11111111111111','razao1','nome1');
